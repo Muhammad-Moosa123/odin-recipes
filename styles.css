@@ -1,0 +1,56 @@
+body{
+    background-color: black;
+}
+
+h1{
+    
+    background-color:hsla(118, 100%, 76%, 0.733) ;
+    color:hsla(0, 0%, 0%, 0.733);
+    display: inline-block;
+    border-radius: 5px;
+    border-style: double;
+    text-align: center;
+}
+
+ul{
+    list-style: none;
+
+}
+
+li{
+    margin: 15px;
+}
+
+button{
+    padding: 10px 20px;
+    display:inline-block;
+    border:2px white;
+    border-radius:5px;
+    cursor: pointer;
+    font-size: 16px;
+    min-width: 250px;
+    text-align: center;
+
+}
+
+button:hover{
+    background-color: rgba(51, 148, 5, 0.753);
+    color:white;
+    font-weight: bold;
+}
+
+.wrap{
+    background-color: cyan;
+    color: black;
+    
+}
+
+.pizza{
+    background-color: rgba(253, 0, 0, 0.705);
+    color: black;
+}
+
+.mac{
+    background-color: yellow;
+    color:black
+}
